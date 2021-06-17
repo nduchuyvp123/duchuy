@@ -4,6 +4,7 @@ git config --global user.email "nxhuy@zonemail.clpccd.edu"
 git config --global user.name "Nguyễn Đức Huy"
 
 git clone https://aur.archlinux.org/github-desktop-bin.git
+git clone https://aur.archlinux.org/google-chrome.git
 git clone https://aur.archlinux.org/postman-bin.git
 git clone https://aur.archlinux.org/mongodb-compass.git
 git clone https://aur.archlinux.org/slack-desktop.git
